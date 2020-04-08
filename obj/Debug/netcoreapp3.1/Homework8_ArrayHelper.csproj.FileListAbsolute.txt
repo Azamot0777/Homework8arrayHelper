@@ -1,0 +1,13 @@
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.exe
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.deps.json
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.runtimeconfig.json
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.runtimeconfig.dev.json
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.dll
+C:\AlifAcademy\Homework8_ArrayHelper\bin\Debug\netcoreapp3.1\Homework8_ArrayHelper.pdb
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.csprojAssemblyReference.cache
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.csproj.CoreCompileInputs.cache
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.AssemblyInfoInputs.cache
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.AssemblyInfo.cs
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.dll
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.pdb
+C:\AlifAcademy\Homework8_ArrayHelper\obj\Debug\netcoreapp3.1\Homework8_ArrayHelper.genruntimeconfig.cache
